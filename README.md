@@ -1,7 +1,9 @@
 # MGRoute
 
-> [!NOTE]
-> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/mgroute
+<!-- Badge opcional para deixar claro visualmente -->
+![Status](https://img.shields.io/badge/status-arquivado--archived-red.svg)
+
+> **Aviso importante:** Esta biblioteca foi **oficialmente arquivada** e não receberá mais atualizações, correções de bugs ou suporte para novas versões.
 
 MGRoute é uma biblioteca simples e leve para roteamento de URLs em Go, inspirada em abordagens minimalistas e funcionais. Ela permite analisar URLs, extrair partes do caminho e associar padrões de rotas a funções de forma clara e objetiva.
 
