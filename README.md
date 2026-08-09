@@ -116,7 +116,7 @@ http.ListenAndServe(":8000", nil)
 
 ## License
 
-Copyright (c) 2025-2026 Murilo Gomes Julio. All Rights Reserved.
+Copyright (c) 2026 Murilo Gomes Julio. All Rights Reserved.
 
 This project is licensed under the PolyForm Perimeter License 1.0.1.
 
