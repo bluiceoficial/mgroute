@@ -1,9 +1,6 @@
 # MGRoute
 
-<!-- Badge opcional para deixar claro visualmente -->
-![Status](https://img.shields.io/badge/status-arquivado--archived-red.svg)
-
-> **Aviso importante:** Esta biblioteca foi **oficialmente arquivada** e não receberá mais atualizações, correções de bugs ou suporte para novas versões.
+[![License](https://img.shields.io/badge/license-PolyForm%20Perimeter%201.0.1-5351FB)](LICENSE.md)
 
 MGRoute é uma biblioteca simples e leve para roteamento de URLs em Go, inspirada em abordagens minimalistas e funcionais. Ela permite analisar URLs, extrair partes do caminho e associar padrões de rotas a funções de forma clara e objetiva.
 
@@ -101,18 +98,44 @@ http.ListenAndServe(":8000", nil)
 
 ---
 
+## 🧩 Compatibilidade
+
+* Go 1.26.5+
+
+---
+
 ## 👤 Autor
 
 **Murilo Gomes Julio**
 
-🔗 [https://mugomes.github.io](https://mugomes.github.io)
+🔗 [https://www.profmugomes.com.br](https://www.profmugomes.com.br)
 
-📺 [https://youtube.com/@mugomesoficial](https://youtube.com/@mugomesoficial)
+📺 [https://youtube.com/@profmugomes](https://youtube.com/@profmugomes)
+
+---
 
 ## License
 
-Copyright (c) 2026 Murilo Gomes Julio
+Copyright (c) 2025-2026 Murilo Gomes Julio. All Rights Reserved.
 
-Licensed under the [MIT](https://github.com/mugomes/mgroute/blob/main/LICENSE) license.
+This project is licensed under the PolyForm Perimeter License 1.0.1.
 
-All contributions to the MGRoute are subject to this license.
+### Summary
+
+This software is available for commercial and noncommercial use, subject to the terms of the PolyForm Perimeter License 1.0.1.
+
+You may:
+
+* ✔ Use the software for commercial and noncommercial purposes.
+* ✔ Inspect and study the source code.
+* ✔ Modify the software.
+* ✔ Create derivative works based on the software.
+* ✔ Redistribute the software and permitted modifications.
+
+You may not:
+
+* ✖ Provide a product that competes with the software.
+
+See the full license terms at LICENSE.md.
+
+This summary is provided for convenience only and does not replace or modify the full license terms.
